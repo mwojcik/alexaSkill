@@ -1,0 +1,11 @@
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\bin\Release\netcoreapp2.1\linux-x64\GarbageCalednar.deps.json
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\bin\Release\netcoreapp2.1\linux-x64\GarbageCalednar.runtimeconfig.json
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\bin\Release\netcoreapp2.1\linux-x64\GarbageCalednar.runtimeconfig.dev.json
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\bin\Release\netcoreapp2.1\linux-x64\GarbageCalednar.dll
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\bin\Release\netcoreapp2.1\linux-x64\GarbageCalednar.pdb
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Release\netcoreapp2.1\linux-x64\GarbageCalednar.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Release\netcoreapp2.1\linux-x64\GarbageCalednar.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Release\netcoreapp2.1\linux-x64\GarbageCalednar.AssemblyInfoInputs.cache
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Release\netcoreapp2.1\linux-x64\GarbageCalednar.AssemblyInfo.cs
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Release\netcoreapp2.1\linux-x64\GarbageCalednar.dll
+C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Release\netcoreapp2.1\linux-x64\GarbageCalednar.pdb
