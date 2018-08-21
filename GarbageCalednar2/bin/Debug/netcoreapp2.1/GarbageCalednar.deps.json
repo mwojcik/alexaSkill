@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "c8110f02d4533a155917a3d97fcbb3eb9d69563b"
+    "signature": "dcf76df22e49fab5928c7ec6cda0560ade401c5c"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,7 +9,6 @@
       "GarbageCalednar/1.0.0": {
         "dependencies": {
           "AWSSDK.DynamoDBv2": "3.3.12.2",
-          "Alexa.NET": "1.5.4",
           "Amazon.Lambda.Core": "1.0.0",
           "Amazon.Lambda.Serialization.Json": "1.3.0",
           "Autofac": "4.8.1",
@@ -17,17 +16,6 @@
         },
         "runtime": {
           "GarbageCalednar.dll": {}
-        }
-      },
-      "Alexa.NET/1.5.4": {
-        "dependencies": {
-          "Newtonsoft.Json": "9.0.1"
-        },
-        "runtime": {
-          "lib/netstandard1.6/Alexa.NET.dll": {
-            "assemblyVersion": "1.5.4.0",
-            "fileVersion": "1.5.4.0"
-          }
         }
       },
       "Amazon.Lambda.Core/1.0.0": {
@@ -836,13 +824,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Alexa.NET/1.5.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-fxVHNO4cb9bwts5vJrdF4OwOm8gSYcbOwpAmLXjJyCc2jTkXyCdCY0av2k0O1SaMHv85rtk4ckoSqyj0celayg==",
-      "path": "alexa.net/1.5.4",
-      "hashPath": "alexa.net.1.5.4.nupkg.sha512"
-    },
     "Amazon.Lambda.Core/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1287,7 +1268,7 @@
     "System.Threading.Thread/4.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
+      "sha512": "sha512-UdTUZUl5v7LhJm1YFrEIq5e/mqHKgHwbGv5cMcENCzu5TXtmdkRssAwcY/AYpRYtl9uqNLH80gTMR4tymkJ8yw==",
       "path": "system.threading.thread/4.0.0",
       "hashPath": "system.threading.thread.4.0.0.nupkg.sha512"
     },

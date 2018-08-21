@@ -1,7 +1,4 @@
 using System;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Threading.Tasks;
 using Alexa.NET.Request;
 using Alexa.NET.Response;
 using AlexaSkillCommon;
@@ -26,7 +23,7 @@ namespace PerfectGym
             {
                 var mediator = innerScope.Resolve<IMediator>();
                 context.Logger.LogLine("Request: " + input.Request);
-                var result = mediator.HandleRequest(input.Request, context);
+                var result = mediator.HandleRequest(input.Request, context,input.Session);
                 return result;
             }
         }

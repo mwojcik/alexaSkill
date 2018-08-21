@@ -9,3 +9,14 @@ C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Debug\netcorea
 C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.AssemblyInfo.cs
 C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.dll
 C:\Users\wojci\source\repos\GarbageCalednar2\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.pdb
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\bin\Debug\netcoreapp2.1\GarbageCalednar.deps.json
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\bin\Debug\netcoreapp2.1\GarbageCalednar.runtimeconfig.json
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\bin\Debug\netcoreapp2.1\GarbageCalednar.runtimeconfig.dev.json
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\bin\Debug\netcoreapp2.1\GarbageCalednar.dll
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\bin\Debug\netcoreapp2.1\GarbageCalednar.pdb
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.csprojAssemblyReference.cache
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.csproj.CoreCompileInputs.cache
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.AssemblyInfoInputs.cache
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.AssemblyInfo.cs
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.dll
+C:\Projects\AlexaSkills\alexaSkill\GarbageCalednar2\obj\Debug\netcoreapp2.1\GarbageCalednar.pdb

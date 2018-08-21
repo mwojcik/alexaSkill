@@ -1,4 +1,5 @@
-﻿using Alexa.NET.Request.Type;
+﻿using Alexa.NET.Request;
+using Alexa.NET.Request.Type;
 using Alexa.NET.Response;
 using Amazon.Lambda.Core;
 
@@ -13,10 +14,10 @@ namespace AlexaSkillCommon.Infrastructure
             _intenExecutor = intenExecutor;
         }
 
-        public  SkillResponse Handle(IntentRequest inputRequest, ILambdaContext context)
+        public  SkillResponse Handle(IntentRequest inputRequest, ILambdaContext context, Session session)
         {
             context.Logger.LogLine($"Execute {inputRequest.Intent.Name} intent");
-            return _intenExecutor.Execute(inputRequest.Intent,context);
+            return _intenExecutor.Execute(inputRequest,context,session);
         }     
     }
 }

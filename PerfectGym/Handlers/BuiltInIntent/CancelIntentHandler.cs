@@ -1,6 +1,8 @@
 ﻿using Alexa.NET.Request;
+using Alexa.NET.Request.Type;
 using Alexa.NET.Response;
 using AlexaSkillCommon.Infrastructure;
+using Amazon.Lambda.Core;
 
 namespace PerfectGym.Handlers.BuiltInIntent
 {
@@ -8,7 +10,7 @@ namespace PerfectGym.Handlers.BuiltInIntent
     {
         public string IntentName => "AMAZON.CancelIntent";
 
-        public SkillResponse Handle(Intent intent)
+        public SkillResponse Handle(IntentRequest intent, ILambdaContext context, Session inputSession)
         {
             return AlexaResponseBuilder.MakeSkillResponse("Canceled",true);
         }

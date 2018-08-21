@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCalednar", "GarbageC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerfectGym", "PerfectGym\PerfectGym.csproj", "{760467B3-CE6E-48C9-BAEC-41BC4C7E4077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaSkillCommon", "AlexaSkillCommon\AlexaSkillCommon.csproj", "{76C8683E-A30A-44B8-BA4A-627731E07F14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaSkillCommon", "AlexaSkillCommon\AlexaSkillCommon.csproj", "{76C8683E-A30A-44B8-BA4A-627731E07F14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

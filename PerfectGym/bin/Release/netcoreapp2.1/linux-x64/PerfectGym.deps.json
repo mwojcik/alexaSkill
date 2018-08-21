@@ -503,6 +503,8 @@
       "AlexaSkillCommon/1.0.0": {
         "dependencies": {
           "Alexa.NET": "1.5.4",
+          "Amazon.Lambda.Core": "1.0.0",
+          "Amazon.Lambda.Serialization.Json": "1.3.0",
           "Autofac": "4.8.1"
         },
         "runtime": {

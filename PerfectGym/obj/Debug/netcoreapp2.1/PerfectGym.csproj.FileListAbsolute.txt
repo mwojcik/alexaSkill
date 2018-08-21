@@ -11,3 +11,17 @@ C:\Users\wojci\source\repos\GarbageCalednar2\PerfectGym\obj\Debug\netcoreapp2.1\
 C:\Users\wojci\source\repos\GarbageCalednar2\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.pdb
 C:\Users\wojci\source\repos\GarbageCalednar2\PerfectGym\bin\Debug\netcoreapp2.1\AlexaSkillCommon.dll
 C:\Users\wojci\source\repos\GarbageCalednar2\PerfectGym\bin\Debug\netcoreapp2.1\AlexaSkillCommon.pdb
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\PerfectGym.deps.json
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\PerfectGym.runtimeconfig.json
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\PerfectGym.runtimeconfig.dev.json
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\PerfectGym.dll
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\PerfectGym.pdb
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\AlexaSkillCommon.dll
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\bin\Debug\netcoreapp2.1\AlexaSkillCommon.pdb
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.csprojAssemblyReference.cache
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.csproj.CoreCompileInputs.cache
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.AssemblyInfoInputs.cache
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.AssemblyInfo.cs
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.csproj.CopyComplete
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.dll
+C:\Projects\AlexaSkills\alexaSkill\PerfectGym\obj\Debug\netcoreapp2.1\PerfectGym.pdb

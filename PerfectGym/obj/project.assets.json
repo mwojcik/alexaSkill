@@ -977,6 +977,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Alexa.NET": "1.5.4",
+          "Amazon.Lambda.Core": "1.0.0",
+          "Amazon.Lambda.Serialization.Json": "1.3.0",
           "Autofac": "4.8.1"
         },
         "compile": {
@@ -2180,6 +2182,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Alexa.NET": "1.5.4",
+          "Amazon.Lambda.Core": "1.0.0",
+          "Amazon.Lambda.Serialization.Json": "1.3.0",
           "Autofac": "4.8.1"
         },
         "compile": {
@@ -5603,40 +5607,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wojci\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\michal.wojcik\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\PerfectGym\\PerfectGym.csproj",
+      "projectUniqueName": "C:\\Projects\\AlexaSkills\\alexaSkill\\PerfectGym\\PerfectGym.csproj",
       "projectName": "PerfectGym",
-      "projectPath": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\PerfectGym\\PerfectGym.csproj",
-      "packagesPath": "C:\\Users\\wojci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\PerfectGym\\obj\\",
+      "projectPath": "C:\\Projects\\AlexaSkills\\alexaSkill\\PerfectGym\\PerfectGym.csproj",
+      "packagesPath": "C:\\Users\\michal.wojcik\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\AlexaSkills\\alexaSkill\\PerfectGym\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wojci\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\michal.wojcik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://pgm-nugetserver.azurewebsites.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\AlexaSkillCommon\\AlexaSkillCommon.csproj": {
-              "projectPath": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\AlexaSkillCommon\\AlexaSkillCommon.csproj"
+            "C:\\Projects\\AlexaSkills\\alexaSkill\\AlexaSkillCommon\\AlexaSkillCommon.csproj": {
+              "projectPath": "C:\\Projects\\AlexaSkills\\alexaSkill\\AlexaSkillCommon\\AlexaSkillCommon.csproj"
             }
           }
         }

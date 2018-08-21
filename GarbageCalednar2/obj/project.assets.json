@@ -4967,7 +4967,7 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
+      "sha512": "UdTUZUl5v7LhJm1YFrEIq5e/mqHKgHwbGv5cMcENCzu5TXtmdkRssAwcY/AYpRYtl9uqNLH80gTMR4tymkJ8yw==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
@@ -5259,36 +5259,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wojci\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\michal.wojcik\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\GarbageCalednar2\\GarbageCalednar.csproj",
+      "projectUniqueName": "C:\\Projects\\AlexaSkills\\alexaSkill\\GarbageCalednar2\\GarbageCalednar.csproj",
       "projectName": "GarbageCalednar",
-      "projectPath": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\GarbageCalednar2\\GarbageCalednar.csproj",
-      "packagesPath": "C:\\Users\\wojci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wojci\\source\\repos\\GarbageCalednar2\\GarbageCalednar2\\obj\\",
+      "projectPath": "C:\\Projects\\AlexaSkills\\alexaSkill\\GarbageCalednar2\\GarbageCalednar.csproj",
+      "packagesPath": "C:\\Users\\michal.wojcik\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\AlexaSkills\\alexaSkill\\GarbageCalednar2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wojci\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\michal.wojcik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://pgm-nugetserver.azurewebsites.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
