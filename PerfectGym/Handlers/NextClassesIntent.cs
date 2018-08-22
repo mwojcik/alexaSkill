@@ -29,43 +29,27 @@ namespace PerfectGym.Handlers
 
             var response = "ConfirmationStatus: " + intent.ConfirmationStatus + Environment.NewLine;
             var classNameSlot = intent.Slots["className"];
+            context.Logger.LogLine(classNameSlot.ToLogFormattedString());
 
 
-            if (classNameSlot != null)
-            {
-                response += "SlotName:" + classNameSlot.Name + " SlotValue: " + classNameSlot.Value + Environment.NewLine;
-            }
-            else
-            {
-                response += "Slot is not set";
-            }
 
             return ResponseBuilder.Tell("NextClasses executed."+ response);
         }
 
 
-        private bool IsDialogIntentRequest(IntentRequest input)
+        private static bool IsDialogIntentRequest(IntentRequest input)
         {
-            if (string.IsNullOrEmpty(input.DialogState))
-                return false;
-            return true;
+            return !string.IsNullOrEmpty(input.DialogState);
         }
 
-        private bool IsDialogSequenceComplete(IntentRequest input)
+        private static bool IsDialogSequenceComplete(IntentRequest input)
         {
-            if (input.DialogState.Equals(AlexaConstants.DialogStarted)
-                || input.DialogState.Equals(AlexaConstants.DialogInProgress))
+            if (input.DialogState.Equals(AlexaConstants.DialogStarted) || input.DialogState.Equals(AlexaConstants.DialogInProgress))
             {
                 return false;
             }
-            else
-            {
-                if (input.DialogState.Equals(AlexaConstants.DialogCompleted))
-                {
-                    return true;
-                }
-            }
-            return false;
+
+            return input.DialogState.Equals(AlexaConstants.DialogCompleted);
         }
     }
 }
