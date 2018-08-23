@@ -10,7 +10,7 @@ namespace PerfectGym.Handlers.BuiltInIntent
     {
         public SkillResponse Handle(LaunchRequest inputRequest, ILambdaContext context, Session inputSession)
         {
-            return AlexaResponseBuilder.MakeSkillResponse("Welcome to PerfectGym. Would you like to book a class or check your bookings ?", false);
+            return AlexaResponseBuilder.MakeSkillResponse("Welcome to PerfectGym. Would you like to book or cancel a class, or know your upcoming bookings or schedule ?", false);
         }
     }
 }
